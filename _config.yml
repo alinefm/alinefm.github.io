@@ -1,0 +1,8 @@
+title: Aline Manera
+logo: /assets/img/logo.png
+description: Aline's Personal Blog
+show_downloads: false
+google_analytics: UA-127342245-1 
+theme: jekyll-theme-minimal
+github:
+    is_user_page: true
